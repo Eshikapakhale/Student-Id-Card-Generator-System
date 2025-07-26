@@ -1,7 +1,7 @@
 # Student-Id-Card-Generator-System
 A student ID card generator system using PHP, MySQL, and DomPDF. Supports adding student data, uploading photos, choosing templates, and downloading ID cards as PDFs.
 
-# 🎓 Student ID Card Generator System
+
 
 A web-based application built with **PHP** and **MySQL** that allows admins to generate student ID cards with photo, template selection, and PDF export using DomPDF.
 
